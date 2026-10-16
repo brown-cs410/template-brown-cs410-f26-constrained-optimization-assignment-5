@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+.DS*
+*.pkl
+*.sgf
+.pytest_cache/
+.venv/
+cs410_env/
+.vscode/
